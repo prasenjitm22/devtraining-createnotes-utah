@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_module_key_policy">
+    <sys_kmf_module_key_policy action="INSERT_OR_UPDATE">
+        <crypto_module display_value="com_glide_record_glideencrypter">246bf8d15310311045bfddeeff7b12aa</crypto_module>
+        <key_type display_value="Symmetric Data Encryption Key">1c38f324c7003300af4d43c6f097636e</key_type>
+        <last_enforced>2024-03-05 13:41:57</last_enforced>
+        <result>reject</result>
+        <sys_class_name>sys_kmf_module_key_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-05 13:41:57</sys_created_on>
+        <sys_id>c97eff30473802107ae3981f316d43a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sys_kmf_module_key_policy_c97eff30473802107ae3981f316d43a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-05 13:41:57</sys_updated_on>
+    </sys_kmf_module_key_policy>
+</record_update>
